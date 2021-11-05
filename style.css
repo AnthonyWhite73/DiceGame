@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: green;
+}
+
+#diceimgbox{
+    display: flex;
+    justify-content: center;
+}
